@@ -1,2 +1,2 @@
 # OP-LR4-COOP
-LR4
+Variant 2 - .wav
